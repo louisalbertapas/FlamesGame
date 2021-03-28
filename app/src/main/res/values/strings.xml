@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FlamesGame</string>
+    <string name="welcome">Welcome to FLAMES game!</string>
+    <string name="instruction">Write your name and the name of your flame.</string>
+    <string name="flames">FLAMES</string>
+    <string name="friends">F - Friends</string>
+    <string name="lovers">L - Lovers</string>
+    <string name="attraction">A - Attraction</string>
+    <string name="married">M - Married</string>
+    <string name="enemies">E - Enemies</string>
+    <string name="siblings">S - Siblings</string>
+    <string name="name_hint">Your name</string>
+    <string name="flame_name_hint">Your FLAME name</string>
+    <string name="compute_name_btn_label">Compute FLAMES!</string>
+</resources>
